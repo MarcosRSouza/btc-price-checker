@@ -1,6 +1,6 @@
 {
   "name": "btc-price-checker",
-  "homepage": "http://marcosrsouza.github.io/btc-price-checker",
+  "homepage": "https://marcosrsouza.github.io/btc-price-checker",
   "private": true,
   "version": "0.0.0",
   "type": "module",
